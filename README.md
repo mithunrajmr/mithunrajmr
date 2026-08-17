@@ -26,17 +26,18 @@
 <img src="https://komarev.com/ghpvc/?username=mithunrajmr&label=PROFILE%20VIEWS&color=0284c7&style=flat-square" />
 <img src="https://img.shields.io/github/followers/mithunrajmr?label=FOLLOWERS&color=0284c7&style=flat-square" />
 <img src="https://img.shields.io/github/stars/mithunrajmr?label=STARS&color=0284c7&style=flat-square" />
-<img src="https://img.shields.io/github/repos/mithunrajmr?label=PUBLIC%20REPOS&color=1e293b&style=flat-square" />
 
 </div>
 
 <br>
 
-<!-- ===================== GITHUB SNAPSHOT ===================== -->
+---
 
 <div align="center">
 
 ## 📡 GitHub Snapshot
+
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithunrajmr&theme=tokyonight" width="47%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithunrajmr&theme=tokyonight" width="51%" />
@@ -55,7 +56,7 @@
 
 <br>
 
-`FULL-STACK`    ×    `CLOUD`    ×    `AI`
+`FULL-STACK`   ×   `CLOUD`   ×   `AI`
 
 </div>
 
@@ -64,60 +65,70 @@
 <table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🤖
 
 ### AI
 
-Generative AI
-Agentic workflows
-Decision systems
-Human-in-the-loop
+<br>
+
+**Generative AI**
+**Agentic Workflows**
+**Decision Systems**
+**Human-in-the-Loop**
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### ⚙️
 
 ### BACKEND
 
-Java
-Spring Boot
-REST APIs
-WebSockets
+<br>
+
+**Java**
+**Spring Boot**
+**REST APIs**
+**WebSockets**
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🎨
 
 ### FRONTEND
 
-React
-JavaScript
-Tailwind CSS
-Vite
+<br>
+
+**React**
+**JavaScript**
+**Tailwind CSS**
+**Vite**
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### ☁️
 
 ### CLOUD
 
-Google Cloud
-Vertex AI
-BigQuery
-Firebase
+<br>
+
+**Google Cloud**
+**Vertex AI**
+**BigQuery**
+**Firebase**
 
 </td>
 
 </tr>
 </table>
+
+<br>
 
 ---
 
@@ -151,13 +162,16 @@ Firebase
 
 ## 🏦 TORII
 
-### `AGENTIC AI • ENTERPRISE`
+### `AGENTIC AI`  •  `ENTERPRISE`
+
+<br>
 
 AI-powered branch operations platform combining intelligent workflows, document verification, compliance checks, fraud detection and human approval.
 
 <br>
 
-`React` `PostgreSQL` `Redis` `watsonx` `Gemini`
+`React` `PostgreSQL` `Redis`
+`watsonx` `Gemini`
 
 <br><br>
 
@@ -175,13 +189,16 @@ AI-powered branch operations platform combining intelligent workflows, document 
 
 ## 📊 DecisionIQ
 
-### `AI • DECISION INTELLIGENCE`
-
-A decision-support platform combining inventory data, contextual signals and Gemini-generated purchasing strategies.
+### `AI`  •  `DECISION INTELLIGENCE`
 
 <br>
 
-`React` `FastAPI` `BigQuery` `Vertex AI` `Docker`
+Decision-support platform combining inventory data, contextual signals and Gemini-generated purchasing strategies.
+
+<br>
+
+`React` `FastAPI` `BigQuery`
+`Vertex AI` `Docker`
 
 <br><br>
 
@@ -203,13 +220,16 @@ A decision-support platform combining inventory data, contextual signals and Gem
 
 ## 💬 DoConnect AI
 
-### `FULL-STACK • REAL-TIME • AI`
+### `FULL-STACK`  •  `REAL-TIME`  •  `AI`
+
+<br>
 
 Discussion and collaboration platform combining Q&A, role-based access, real-time communication and AI-assisted workflows.
 
 <br>
 
-`Spring Boot` `React` `MySQL` `JWT` `WebSocket` `Gemini`
+`Spring Boot` `React` `MySQL`
+`JWT` `WebSocket` `Gemini`
 
 <br><br>
 
@@ -223,9 +243,11 @@ Discussion and collaboration platform combining Q&A, role-based access, real-tim
 
 ## ⚡ MR Flow
 
-### `PRODUCTIVITY • WEB`
+### `PRODUCTIVITY`  •  `WEB`
 
-A workflow and productivity application for task tracking, time logging, reporting and productivity dashboards.
+<br>
+
+Workflow and productivity application for task tracking, time logging, reporting and productivity dashboards.
 
 <br>
 
@@ -241,57 +263,6 @@ A workflow and productivity application for task tracking, time logging, reporti
 
 </tr>
 </table>
-
----
-
-# 🧠 How I Build
-
-<div align="center">
-
-```text
-                 ┌──────────────────┐
-                 │      💡 IDEA     │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │  🧩 ARCHITECTURE │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   ⚙️ CORE SYSTEM │
-                 │  API + DATA      │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │    🎨 PRODUCT    │
-                 │  React / Web     │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │    🤖 AI LAYER   │
-                 │ Gemini / Agents  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │     ☁️ CLOUD     │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │     🚀 SHIP      │
-                 └──────────────────┘
-```
-
-<br>
-
-`BUILD` → `TEST` → `LEARN` → `IMPROVE`
-
-</div>
 
 ---
 
@@ -312,13 +283,16 @@ A workflow and productivity application for task tracking, time logging, reporti
 
 <br>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center">
+
+<td width="33%" align="center" valign="top">
 
 ### 🏆
 
 **HackOn Agentic AI**
+
+<br>
 
 Finalist
 IBM Bob & watsonx
@@ -326,11 +300,13 @@ IBM Bob & watsonx
 
 </td>
 
-<td align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🤖
 
 **Google Gen AI Academy**
+
+<br>
 
 APAC
 Cohort 1 & 2
@@ -338,17 +314,20 @@ Cohort 1 & 2
 
 </td>
 
-<td align="center">
+<td width="33%" align="center" valign="top">
 
 ### ☁️
 
 **Google Cloud**
+
+<br>
 
 Partner Specialist
 Gemini Enterprise
 2026
 
 </td>
+
 </tr>
 </table>
 
@@ -379,19 +358,24 @@ Gemini Enterprise
 
 Currently going deeper into:
 
-**Java** · **Spring Boot** · **Backend Systems** · **Cloud** · **Generative AI**
+### **Java · Spring Boot · Backend Systems · Cloud · Generative AI**
 
 <br><br>
 
-`🤖 Agentic AI`   `☁️ Cloud Apps`   `⚙️ Backend Engineering`   `📊 AI Decision Systems`
+`🤖 Agentic AI`   
+`☁️ Cloud Apps`   
+`⚙️ Backend Engineering`   
+`📊 AI Decision Systems`
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### 🌐 Find Me
+## 🌐 Find Me
 
 <a href="https://mithunrajmr.netlify.app">Portfolio</a>
   •   <a href="https://github.com/mithunrajmr">GitHub</a>
