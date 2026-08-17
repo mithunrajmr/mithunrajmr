@@ -75,7 +75,7 @@
       <h4>🎨 Frontend</h4>
       <ul>
         <li>React</li>
-        <li>JavaScript / TypeScript</li>
+        <li>JavaScript</li>
         <li>Tailwind CSS</li>
         <li>Vite</li>
       </ul>
@@ -86,7 +86,7 @@
         <li>Google Cloud Platform</li>
         <li>Vertex AI & BigQuery</li>
         <li>Firebase</li>
-        <li>PostgreSQL / Redis</li>
+        <li>MySQL / PostgreSQL</li>
       </ul>
     </td>
   </tr>
@@ -94,7 +94,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,py,fastapi,gcp,docker,postgres,mysql,redis,tailwind,vite,firebase,git&perline=16" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,py,fastapi,gcp,docker,postgres,mysql,redis,tailwind,vite,firebase,git&perline=15" />
 </div>
 
 ---
@@ -104,7 +104,9 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ TORII</h3>
+      <a href="https://github.com/mithunrajmr/TORII">
+        <h3>🏛️ TORII ↗</h3>
+      </a>
       <p><b>AGENTIC AI &bull; ENTERPRISE BRANCH OPERATIONS</b></p>
       <p>Autonomous branch operations platform combining intelligent workflows, document verification, compliance checks, fraud detection, and human-in-the-loop triggers.</p>
       <p>
@@ -113,9 +115,11 @@
       <p>🏆 <b>Finalist</b> — HackOn Agentic AI (IBM & watsonx, 2026)</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 DecisionIQ</h3>
+      <a href="https://github.com/mithunrajmr/DecisionIQ">
+        <h3>📊 DecisionIQ ↗</h3>
+      </a>
       <p><b>AI &bull; DECISION INTELLIGENCE</b></p>
-      <p>Decision-support platform combining supply chain telemetry, contextual signals, and Gemini-powered purchasing strategies via BigQuery & Vertex AI.</p>
+      <p>Decision-support platform combining grocery inventory data, contextual signals (weather/events), and Gemini-powered purchasing recommendations via BigQuery & Vertex AI.</p>
       <p>
         <code>React</code> <code>FastAPI</code> <code>BigQuery</code> <code>Vertex AI</code> <code>Docker</code>
       </p>
@@ -124,17 +128,21 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💬 DoConnect AI</h3>
+      <a href="https://github.com/mithunrajmr/DoConnect-AI">
+        <h3>💬 DoConnect AI ↗</h3>
+      </a>
       <p><b>FULL-STACK &bull; REAL-TIME &bull; AI</b></p>
-      <p>Developer knowledge platform combining structured Q&A, role-based access control, real-time WebSocket communication, and vector AI synthesis.</p>
+      <p>Developer discussion platform combining Q&A, role-based access control, real-time WebSocket communication, and Gemini-powered answer assistance and summarization.</p>
       <p>
         <code>Spring Boot</code> <code>React</code> <code>MySQL</code> <code>JWT</code> <code>WebSockets</code> <code>Gemini</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ MR Flow</h3>
-      <p><b>PRODUCTIVITY &bull; WEB ENGINE</b></p>
-      <p>High-efficiency operations and workflow tracking application for real-time asset orchestration, time logging, and performance reporting.</p>
+      <a href="https://mr-flow.netlify.app">
+        <h3>⚡ MR Flow ↗</h3>
+      </a>
+      <p><b>PRODUCTIVITY &bull; WEB APP</b></p>
+      <p>Workflow and productivity application designed for task management, time tracking, reporting, and visual dashboards.</p>
       <p>
         <code>React</code> <code>Firebase</code> <code>Tailwind</code> <code>Netlify</code>
       </p>
@@ -168,26 +176,27 @@
 
 ---
 
-### 📍 Current Chapter
+### 📍 Current Focus
 
 ```
-  🏢 PROJECT ENGINEER @ WIPRO
+  💡 ACTIVE ENGINEERING & EXPLORATION
   ────────────────────────────────────────────────────────────────────────────
-  Deepening expertise across: Java • Spring Boot • Backend Systems • Cloud • Applied GenAI
+  Deepening work across: Java 21 • Spring Boot • Cloud Systems • Applied Generative AI
   
-  Current Focus Areas:
-  🤖 Agentic AI Architectures    ☁️ Cloud-Native Microservices
-  ⚙️ Scalable Backend Engines     📊 AI-Assisted Decision Systems
+  Focus Areas:
+  🤖 Agentic AI & Human-in-the-Loop Workflows    ☁️ Cloud-Native Microservices
+  ⚙️ Robust REST & Real-Time Backend Systems      📊 Practical AI Decision Tools
 ```
 
 ---
 
 <div align="center">
+  <h3>🤝 Let's Connect & Collaborate</h3>
   <p>
-    <a href="https://mithunrajmr.netlify.app">Portfolio</a> &bull;
-    <a href="https://github.com/mithunrajmr">GitHub</a> &bull;
-    <a href="https://www.linkedin.com/in/mithunrajmr">LinkedIn</a> &bull;
-    <a href="mailto:2mrmithunraj@gmail.com">Email</a>
+    <a href="https://mithunrajmr.netlify.app"><img src="https://img.shields.io/badge/Website-Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mithunrajmr"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/mithunrajmr"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:2mrmithunraj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-  <sub>Built with ☕, curiosity and too many Git commits.</sub>
+  <sub>Building software that decides, automates, and ships.</sub>
 </div>
