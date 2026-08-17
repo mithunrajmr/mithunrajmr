@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # ⚡ Mithun Raj M R
@@ -27,16 +26,13 @@
 
 <div align="center">
 
-
 ```
-
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │  AI & DATA      │  Gemini Pro • Vertex AI • BigQuery • IBM watsonx • Redis             │
 │  BACKEND        │  Java 21 • Spring Boot • Python • FastAPI • REST • WebSockets • JWT  │
 │  FRONTEND       │  React • TypeScript • JavaScript • Tailwind CSS • Vite               │
 │  CLOUD & DEVOPS │  Google Cloud Platform • Docker • Firebase • Git • Netlify           │
 └────────────────────────────────────────────────────────────────────────────────────────┘
-
 ```
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,py,fastapi,gcp,docker,postgres,mongodb,redis,tailwind&perline=12" />
@@ -99,31 +95,28 @@
 
 ### ⚙️ System Workflow Pipeline
 
-
 ```
-
-[ Business Need / Data ]
-│
-▼
-┌───────────────────────┐
-│ SYSTEM ARCHITECTURE   │ ──► Distributed Patterns, Microservices, Clean Schema
-└───────────┬───────────┘
-│
-▼
-┌───────────────────────┐
-│ CORE ENGINE & API     │ ──► Java 21 / Spring Boot / FastAPI + Redis Caching
-└───────────┬───────────┘
-│
-▼
-┌───────────────────────┐
-│ AGENTIC / AI LAYER    │ ──► Google Vertex AI / Gemini Function Calling
-└───────────┬───────────┘
-│
-▼
-┌───────────────────────┐
-│ INTERFACE & DELIVERY  │ ──► React Single Page App / Tailwind UI / CI/CD Cloud
-└───────────────────────┘
-
+  [ Business Need / Data ] 
+              │
+              ▼
+  ┌───────────────────────┐
+  │ SYSTEM ARCHITECTURE   │ ──► Distributed Patterns, Microservices, Clean Schema
+  └───────────┬───────────┘
+              │
+              ▼
+  ┌───────────────────────┐
+  │ CORE ENGINE & API     │ ──► Java 21 / Spring Boot / FastAPI + Redis Caching
+  └───────────┬───────────┘
+              │
+              ▼
+  ┌───────────────────────┐
+  │ AGENTIC / AI LAYER    │ ──► Google Vertex AI / Gemini Function Calling
+  └───────────┬───────────┘
+              │
+              ▼
+  ┌───────────────────────┐
+  │ INTERFACE & DELIVERY  │ ──► React Single Page App / Tailwind UI / CI/CD Cloud
+  └───────────────────────┘
 ```
 
 ---
@@ -165,5 +158,3 @@
 <div align="center">
   <sub>Engineered by <b>Mithun Raj M R</b> &bull; Bengaluru, India</sub>
 </div>
-
-```
