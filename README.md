@@ -53,19 +53,19 @@
 
 <table width="100%" align="center">
   <tr align="center">
-    <td width="25%">
+    <td width="25%" style="padding: 16px;">
       <h4>🤖 AI Systems</h4>
       <p>Generative AI<br/>Agentic Workflows<br/>Decision Systems<br/>Human-in-the-Loop</p>
     </td>
-    <td width="25%">
+    <td width="25%" style="padding: 16px;">
       <h4>⚙️ Backend</h4>
       <p>Java 21<br/>Spring Boot<br/>REST APIs<br/>WebSockets</p>
     </td>
-    <td width="25%">
+    <td width="25%" style="padding: 16px;">
       <h4>🎨 Frontend</h4>
       <p>React<br/>JavaScript<br/>Tailwind CSS<br/>Vite</p>
     </td>
-    <td width="25%">
+    <td width="25%" style="padding: 16px;">
       <h4>☁️ Cloud & Data</h4>
       <p>Google Cloud Platform<br/>Vertex AI & BigQuery<br/>Firebase<br/>MySQL / PostgreSQL</p>
     </td>
@@ -86,42 +86,65 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ TORII</h3>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <a href="https://github.com/mithunrajmr/TORII">
+        <h3>🏛️ TORII ↗</h3>
+      </a>
       <p><b>AGENTIC AI • ENTERPRISE BRANCH OPERATIONS</b></p>
       <p>Autonomous branch operations platform combining intelligent workflows, document verification, compliance checks, fraud detection and human approval.</p>
       <p>
         <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>watsonx</code> <code>Gemini</code>
       </p>
       <p>🏆 <b>Finalist</b> — HackOn Agentic AI (IBM & watsonx, 2026)</p>
+      <br/>
+      <a href="https://github.com/mithunrajmr/TORII">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 DecisionIQ</h3>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <a href="https://github.com/mithunrajmr/DecisionIQ">
+        <h3>📊 DecisionIQ ↗</h3>
+      </a>
       <p><b>AI • DECISION INTELLIGENCE</b></p>
       <p>Decision-support platform combining inventory data, contextual signals and Gemini-powered purchasing strategies via BigQuery and Vertex AI.</p>
       <p>
         <code>React</code> <code>FastAPI</code> <code>BigQuery</code> <code>Vertex AI</code> <code>Docker</code>
       </p>
       <p>🏆 <b>Selected</b> — Google Gen AI Academy APAC (2026)</p>
+      <br/>
+      <a href="https://github.com/mithunrajmr/DecisionIQ">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💬 DoConnect AI</h3>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <a href="https://github.com/mithunrajmr/DoConnect-AI">
+        <h3>💬 DoConnect AI ↗</h3>
+      </a>
       <p><b>FULL-STACK • REAL-TIME • AI</b></p>
       <p>Developer discussion and collaboration platform combining Q&A, role-based access, real-time communication and AI-assisted workflows.</p>
       <p>
         <code>Spring Boot</code> <code>React</code> <code>MySQL</code> <code>JWT</code> <code>WebSocket</code> <code>Gemini</code>
       </p>
+      <br/>
+      <a href="https://github.com/mithunrajmr/DoConnect-AI">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ MR Flow</h3>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <a href="https://mr-flow.netlify.app">
+        <h3>⚡ MR Flow ↗</h3>
+      </a>
       <p><b>PRODUCTIVITY • WEB APP</b></p>
       <p>Workflow and productivity application for task tracking, time logging, reporting and productivity dashboards.</p>
       <p>
         <code>React</code> <code>Firebase</code> <code>Tailwind</code> <code>Netlify</code>
       </p>
-      <p><a href="https://mr-flow.netlify.app"><b>🚀 Launch Application →</b></a></p>
+      <br/>
+      <a href="https://mr-flow.netlify.app">
+        <img src="https://img.shields.io/badge/Launch_Live_App-0284c7?style=for-the-badge&logo=netlify&logoColor=white" alt="Launch Live App" />
+      </a>
     </td>
   </tr>
 </table>
@@ -133,15 +156,15 @@
 <div align="center">
   <table width="100%">
     <tr align="center">
-      <td width="33%">
+      <td width="33%" style="padding: 14px;">
         <h4>🏆 HackOn Agentic AI</h4>
         <p><b>Finalist (2026)</b><br/>IBM Bob & watsonx</p>
       </td>
-      <td width="33%">
+      <td width="33%" style="padding: 14px;">
         <h4>🤖 Google Gen AI Academy</h4>
         <p><b>APAC (2026)</b><br/>Cohort 1 & 2</p>
       </td>
-      <td width="33%">
+      <td width="33%" style="padding: 14px;">
         <h4>☁️ Google Cloud Specialist</h4>
         <p><b>Partner Specialist (2026)</b><br/>Gemini Enterprise Agent & Deployment</p>
       </td>
