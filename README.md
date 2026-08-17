@@ -1,342 +1,169 @@
+```markdown
 <div align="center">
 
-# `mithunrajmr`
+# ⚡ Mithun Raj M R
+### Full-Stack Engineer &bull; AI Systems Builder &bull; Cloud Architect
 
-### **Mithun Raj M R**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+%26+Intelligent+Workflows;Architecting+Java+%2B+Spring+Boot+Microservices;Full-Stack+Engineering+with+React+%26+Cloud;Turning+Complex+Problems+into+Shipped+Software)](https://git.io/typing-svg)
 
-<sub>Software Developer · Full-Stack Engineer · AI Builder</sub>
+<p align="center">
+  <a href="https://mithunrajmr.netlify.app"><img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mithunrajmr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:2mrmithunraj@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mithunrajmr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=45&lines=I+build+software+that+does+something.;Full-Stack+%2B+Cloud+%2B+AI;Java+%7C+Spring+Boot+%7C+React+%7C+GenAI;Exploring+Agentic+Systems+%26+Intelligent+Workflows" />
-
-<br><br>
-
-<a href="https://mithunrajmr.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit-161B22?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/mithunrajmr">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:2mrmithunraj@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mithunrajmr&label=VISITORS&color=21262D&style=flat-square">
-<img src="https://img.shields.io/github/followers/mithunrajmr?label=FOLLOWERS&color=21262D&style=flat-square">
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `./whoami`
-
-**Building at the intersection of**
-
-`SOFTWARE`   ×   `CLOUD`   ×   `AI`
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI
-
-`Generative AI`
-
-`Agentic Systems`
-
-`Decision Intelligence`
-
-`Human-in-the-Loop`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ ENGINEERING
-
-`Java`
-
-`Spring Boot`
-
-`React`
-
-`Python`
-
-`REST APIs`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ CLOUD
-
-`Google Cloud`
-
-`Vertex AI`
-
-`BigQuery`
-
-`Firebase`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 DATA & SYSTEMS
-
-`PostgreSQL`
-
-`MySQL`
-
-`WebSockets`
-
-`Redis`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 🧪 Current Experiment
-
-**How far can software go when AI becomes part of the workflow — not just the interface?**
-
-`→`
-
-**agents · automation · decisions · enterprise workflows**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mithunrajmr&label=PROFILE+VIEWS&color=0284c7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mithunrajmr?label=FOLLOWERS&color=0284c7&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/LOCATION-Bengaluru%2C_IN-1e293b?style=flat-square" alt="Location" />
+</p>
 
 </div>
 
 ---
 
-# 🧰 My Stack
+### 🧬 The Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,react,tailwind,flask&perline=9&size=48">
 
-<br><br>
+```
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp,docker,git,github,maven,vite,postman&perline=10&size=42">
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  AI & DATA      │  Gemini Pro • Vertex AI • BigQuery • IBM watsonx • Redis             │
+│  BACKEND        │  Java 21 • Spring Boot • Python • FastAPI • REST • WebSockets • JWT  │
+│  FRONTEND       │  React • TypeScript • JavaScript • Tailwind CSS • Vite               │
+│  CLOUD & DEVOPS │  Google Cloud Platform • Docker • Firebase • Git • Netlify           │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 
-<br><br>
+```
 
-<img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/VERTEX%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/BIGQUERY-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/WATSONX-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,py,fastapi,gcp,docker,postgres,mongodb,redis,tailwind&perline=12" />
 
 </div>
 
 ---
 
-# 🚀 Things I've Built
+### 🚀 Selected Architectures & Systems
 
-<table align="center">
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏦 TORII
-
-### `AGENTIC / ENTERPRISE`
-
-AI-driven branch operations with intelligent workflows, document verification, compliance, fraud detection and human approval.
-
-**React · PostgreSQL · Redis · watsonx · Gemini**
-
-🏆 **HackOn Agentic AI 2026 — Finalist**
-
-<a href="https://github.com/mithunrajmr/torii">EXPLORE →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📊 DecisionIQ
-
-### `AI / DECISION SYSTEM`
-
-Inventory decision intelligence using operational data, contextual signals and AI-generated purchasing strategies.
-
-**React · FastAPI · BigQuery · Vertex AI**
-
-🏆 **Google Gen AI Academy APAC 2026**
-
-<a href="https://github.com/mithunrajmr/DecisionIQ">EXPLORE →</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 💬 DoConnect AI
-
-### `FULL-STACK / REAL-TIME`
-
-A discussion platform combining Q&A, role-based access, real-time communication and AI-assisted knowledge workflows.
-
-**Spring Boot · React · MySQL · WebSocket · Gemini**
-
-<a href="https://github.com/mithunrajmr/DoConnect-AI">EXPLORE →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚡ MR Flow
-
-### `PRODUCTIVITY / WEB`
-
-Workflow and productivity application for tasks, time tracking, reporting and productivity insights.
-
-**React · Firebase**
-
-<a href="https://mr-flow.netlify.app">LIVE →</a>
-
-</td>
-
-</tr>
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ TORII</h3>
+      <p><b>Agentic AI for Enterprise Branch Operations</b></p>
+      <p>Autonomous agent pipeline managing real-time customer requests, multi-modal document validation, automated compliance audits, and human-in-the-loop triggers.</p>
+      <p>
+        <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>watsonx</code> <code>Gemini</code>
+      </p>
+      <p>
+        🏆 <b>Finalist</b> — HackOn Agentic AI (IBM & watsonx, 2026)
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 DecisionIQ</h3>
+      <p><b>AI Decision Intelligence Platform</b></p>
+      <p>Hybrid analytical system ingesting multi-source telemetry and supply chain variables into BigQuery with Vertex AI predictive modeling for operational insights.</p>
+      <p>
+        <code>React</code> <code>FastAPI</code> <code>BigQuery</code> <code>Vertex AI</code> <code>Docker</code>
+      </p>
+      <p>
+        🎖️ <b>Selected</b> — Google Gen AI Academy APAC (2026)
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 DoConnect AI</h3>
+      <p><b>Real-Time Developer Knowledge Engine</b></p>
+      <p>Distributed technical discussion platform featuring WebSocket-powered communication, RBAC security, JWT auth, and vector-backed AI synthesis.</p>
+      <p>
+        <code>Java</code> <code>Spring Boot</code> <code>React</code> <code>MySQL</code> <code>WebSockets</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ MR Flow</h3>
+      <p><b>Telemetry & Operations Tracker</b></p>
+      <p>Lightweight, low-latency productivity web app for real-time asset orchestration, state management, client tracking, and sprint analytics.</p>
+      <p>
+        <code>React</code> <code>Firebase</code> <code>Tailwind</code> <code>Netlify</code>
+      </p>
+      <p>
+        <a href="https://mr-flow.netlify.app"><b>🚀 Launch Application →</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<div align="center">
+### ⚙️ System Workflow Pipeline
 
-# 🏆 Proof, Not Claims
 
-<br>
-
-<img src="https://img.shields.io/badge/IBM%20HackOn-AGENTIC%20AI%20FINALIST-161B22?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/GOOGLE%20GEN%20AI%20ACADEMY-APAC%202026-161B22?style=for-the-badge">
-
-<br><br>
-
-**Google Cloud Certified Partner Specialist**
-
-`Gemini Enterprise Agent Development`
-
-`Gemini Enterprise Deployment`
-
-</div>
-
----
-
-# 🧭 The Journey
-
-```text
-2023                 2024                 2025                 2026
- │                     │                    │                    │
- ▼                     ▼                    ▼                    ▼
-Web Development   →   Software Intern   →   B.E. ISE        →   Project Engineer
-Varcons               AuMDS                 DBIT                 Wipro
 ```
 
-<br>
+[ Business Need / Data ]
+│
+▼
+┌───────────────────────┐
+│ SYSTEM ARCHITECTURE   │ ──► Distributed Patterns, Microservices, Clean Schema
+└───────────┬───────────┘
+│
+▼
+┌───────────────────────┐
+│ CORE ENGINE & API     │ ──► Java 21 / Spring Boot / FastAPI + Redis Caching
+└───────────┬───────────┘
+│
+▼
+┌───────────────────────┐
+│ AGENTIC / AI LAYER    │ ──► Google Vertex AI / Gemini Function Calling
+└───────────┬───────────┘
+│
+▼
+┌───────────────────────┐
+│ INTERFACE & DELIVERY  │ ──► React Single Page App / Tailwind UI / CI/CD Cloud
+└───────────────────────┘
 
-<div align="center">
-
-### **Now →**
-
-`Java` · `Spring Boot` · `Cloud` · `Generative AI` · `Agentic Systems`
-
-</div>
-
----
-
-# 🧠 How I Build
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    A["💡 IDEA"] --> B["🧩 ARCHITECT"]
-    B --> C["⚙️ BUILD"]
-    C --> D["🤖 INTELLIGENCE"]
-    D --> E["☁️ DEPLOY"]
-    E --> F["🚀 SHIP"]
-    F --> A
 ```
 
-</div>
+---
 
-<br>
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-
-`Build → Test → Learn → Improve`
-
-<br>
-
-<sub>I care more about solving the problem than using the trendiest technology.</sub>
-
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithunrajmr&theme=tokyonight" width="100%" alt="Profile Summary" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithunrajmr&theme=tokyonight" width="100%" alt="Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithunrajmr&theme=tokyonight" width="100%" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mithunrajmr&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-# 📊 GitHub
+### 📜 Credentials & Recognition
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithunrajmr&theme=tokyonight" width="100%">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithunrajmr&theme=tokyonight" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithunrajmr&theme=tokyonight" width="48%">
-
-</div>
+* 🏅 **Google Cloud Certified Partner Specialist**: Gemini Enterprise Agent Development & Enterprise Deployment
+* 🚀 **Google Gen AI Academy APAC**: Cohort 1 & 2 Graduate
+* 🏆 **HackOn Agentic AI 2026**: Finalist (IBM Bob & watsonx)
+* 🎓 **Bachelor of Engineering**: Information Science & Engineering (Don Bosco Institute of Technology, CGPA: 8.6)
 
 ---
 
 <div align="center">
-
-### `open_to = "building interesting things"`
-
-<br>
-
-<a href="https://mithunrajmr.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-161B22?style=for-the-badge">
-</a>
-<a href="https://github.com/mithunrajmr">
-<img src="https://img.shields.io/badge/💻%20GITHUB-161B22?style=for-the-badge">
-</a>
-<a href="https://linkedin.com/in/mithunrajmr">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-161B22?style=for-the-badge">
-</a>
-
-<br><br>
-
-**Build things. Break things. Learn things. Ship things.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:2563EB&height=90&section=footer" width="100%">
-
+  <sub>Engineered by <b>Mithun Raj M R</b> &bull; Bengaluru, India</sub>
 </div>
+
+```
